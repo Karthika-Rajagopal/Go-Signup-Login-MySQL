@@ -1,4 +1,4 @@
-### Golang MySQL Signup Example 
+### Golang MySQL Signup 
 
 #### Requires: 
 
